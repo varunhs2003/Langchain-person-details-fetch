@@ -8,6 +8,7 @@ wheels/
 
 # Virtual environments
 .venv
+.vscode
 
 # Local environment variables (API Keys)
 .env
